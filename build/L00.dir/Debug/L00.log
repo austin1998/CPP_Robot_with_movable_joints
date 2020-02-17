@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A2\src\main.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A2\src\main.cpp(97): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A2\src\main.cpp(150): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A2\src\main.cpp(153): warning C4305: '=': truncation from 'double' to 'float'
+  L00.vcxproj -> C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A2\build\Debug\L00.exe
