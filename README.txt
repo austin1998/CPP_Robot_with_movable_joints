@@ -1,6 +1,7 @@
 Austin Offill
 
 Use keys x, y, and z to rotate part on axis
+Use Shift and x, y, or z to rotate backwards 
 Use , and . to change parts
 
 pages used to help (no code downloded)
